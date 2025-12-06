@@ -1,0 +1,17 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  flex: 1;
+  padding: 2rem 0;
+}
+
+.export-pdf-mode, .export-pdf-mode * {
+  background: #fff !important;
+  color: #222 !important;
+  box-shadow: none !important;
+  background-image: none !important;
+}
